@@ -20,3 +20,4 @@ ems-kicad.sh
 .venv
 *.egg-info/
 build/
+.DS_Store
